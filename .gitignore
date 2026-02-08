@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Brightness Wizard runtime safety files
+.brightness_wizard_ramp_backup.json
+.brightness_wizard.lock
